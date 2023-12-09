@@ -15,6 +15,18 @@
     border-radius: 5px;
     background: #FD6E0A;
 }
+.btn-secondary{
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background:none ;
+    border: 1px solid #FD6E0A;
+    margin-left: 30px;
+}
 /* header and navigations styles */
 nav{
     display: flex;
